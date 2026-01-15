@@ -9,7 +9,7 @@ I'm an AI scientist, scientific researcher, and product + platform builder. I'm 
 ## Previously
 - **Director of AI Science @ Equifax** — launched real-time fraud/identity products and built large-scale graph + scoring systems.
 - **Senior Data Scientist @ Kount** — shipped fraud prediction systems used at scale and supported go-to-market with engineering + product.
-- **Postdoc @ Boise State University** - built multi-scale simulation pipelines combining quantum chemistry, molecular dynamics, and Monte Carlo to simulate plastic solar cells.
+- **Postdoctoral Researcher @ Boise State University** - built multi-scale simulation pipelines combining quantum chemistry, molecular dynamics, and Monte Carlo to simulate plastic solar cells.
 
 ## After hours (a.k.a. “side quests”)
 - **Local-first LLM + Home Assistant**: tool-using assistants, voice flows, and home automations that are *mostly* helpful and only *occasionally* haunted.
@@ -26,8 +26,8 @@ I'm an AI scientist, scientific researcher, and product + platform builder. I'm 
 Python • PyTorch • SQL • Spark • Docker • Linux • AWS/GCP • Git
 
 ## Links
-- GitHub: https://github.com/matty-jones
 - LinkedIn: https://www.linkedin.com/in/matty-jones
+- Google Scholar: https://scholar.google.com/citations?user=Mw5qnr0AAAAJ
 - Email: mattyl.jones@dunelm.org.uk
 
 ## Open to
