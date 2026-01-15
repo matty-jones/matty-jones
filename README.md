@@ -1,4 +1,4 @@
-# Hi — I’m Matty!
+# Hello!
 
 I'm an AI scientist, scientific researcher, and product + platform builder. I'm the sort of person who reads monitoring dashboards for fun, has strong opinions on data visulisations, will excitedly make years of my own work redundant when new and exciting technologies come out for me to use, and would Dockerise my own parenting if I could...except the requirements are undocumented and change constantly.
 
