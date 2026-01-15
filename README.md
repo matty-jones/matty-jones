@@ -3,13 +3,13 @@
 I'm an AI scientist, scientific researcher, and product + platform builder. I'm the sort of person who reads monitoring dashboards for fun, has strong opinions on data visulisations, will excitedly make years of my own work redundant when new and exciting technologies come out for me to use, and would Dockerise my own parenting if I could...except the requirements are undocumented and change constantly.
 
 ## What I’m doing now
-- Co-founder & Chief Science Officer at **First Tracks Materials** — building **property-directed generative AI** for organic photoinitiators (GNNs, diffusion, provenance-tracked datasets).
+- **Co-founder & Chief Science Officer @ First Tracks Materials**: Building **property-directed generative AI** for organic photoinitiators (GNNs, diffusion, provenance-tracked datasets).
 - Turning messy scientific reality into reproducible pipelines: ingestion → training → inference → evaluation → iteration.
 
 ## Previously
-- **Director of AI Science @ Equifax** — launched real-time fraud/identity products and built large-scale graph + scoring systems.
-- **Senior Data Scientist @ Kount** — shipped fraud prediction systems used at scale and supported go-to-market with engineering + product.
-- **Postdoctoral Researcher @ Boise State University** - built multi-scale simulation pipelines combining quantum chemistry, molecular dynamics, and Monte Carlo to simulate plastic solar cells.
+- **Director of AI Science @ Equifax**: launched real-time fraud/identity products and built large-scale graph + scoring systems.
+- **Senior Data Scientist @ Kount**: shipped fraud prediction systems used at scale and supported go-to-market with engineering + product.
+- **Postdoctoral Researcher @ Boise State University**: built multi-scale simulation pipelines combining quantum chemistry, molecular dynamics, and Monte Carlo to simulate plastic solar cells.
 
 ## After hours (a.k.a. “side quests”)
 - **Local-first LLM + Home Assistant**: tool-using assistants, voice flows, and home automations that are *mostly* helpful and only *occasionally* haunted.
