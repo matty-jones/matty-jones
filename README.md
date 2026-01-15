@@ -1,8 +1,6 @@
 # Hi — I’m Matty!
 
-I'm an AI scientist, scientific researcher, and product + platform builder. I'm the sort of person who reads monitoring dashboards for fun, has strong opinions on data visulisations, will excitedly make years of my own work redundant when new and exciting technologies come out for me to use, and would Dockerise my own parenting if I could...except the requirements are undocumented and change hourly.
-
-and (regrettably) the sort of person who reads monitoring dashboards for fun.
+I'm an AI scientist, scientific researcher, and product + platform builder. I'm the sort of person who reads monitoring dashboards for fun, has strong opinions on data visulisations, will excitedly make years of my own work redundant when new and exciting technologies come out for me to use, and would Dockerise my own parenting if I could...except the requirements are undocumented and change constantly.
 
 ## What I’m doing now
 - Co-founder & Chief Science Officer at **First Tracks Materials** — building **property-directed generative AI** for organic photoinitiators (GNNs, diffusion, provenance-tracked datasets).
@@ -30,7 +28,7 @@ Python • PyTorch • SQL • Spark • Docker • Linux • AWS/GCP • Git
 ## Links
 - GitHub: https://github.com/matty-jones
 - LinkedIn: https://www.linkedin.com/in/matty-jones
-- Email: matthew@jones-family.co.uk
+- Email: mattyl.jones@dunelm.org.uk
 
 ## Open to
 - Applied AI / GenAI leadership roles (hands-on + strategy)
